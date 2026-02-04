@@ -6,7 +6,7 @@ A sleek, lightweight Android application designed to track iNAV for ETFs in real
 **Getting Started**
 1. Clone this repository:
 
-      git clone https://github.com/YOUR_USERNAME/iNAV-Tracker.git
+      git clone https://github.com/rohit-sonii/iNAV-Tracker.git
 
 2. Open the project in Android Studio.
 
